@@ -1,0 +1,17 @@
+- ![Präpositionen - Adverb - Konnektor 1.pdf](../assets/C1_AB_84-86_1709655967041_0.pdf)
+	- Aufgabe 1
+		- Nachdem; Nach; danach ✅
+		- Bevor; Vor;  davor ✅
+		- Während;  während;  gleichzeitig ✅
+		- Wenn; Bei; dabei ✅
+		- Bis; Bis; Bis dann ✅
+		- Seitdem; Seit; seitdem ✅
+	- Aufgabe 2
+		- währenddessen ✅
+		- danach ✅
+		- ~~Vor~~ *Bis*; während ❌
+		- Wenn; vor ✅
+		- ~~bei~~ *vor*; ~~danach~~ *seitdem* ❌
+		- da ✅
+		- als ✅
+		- beim; bis ✅

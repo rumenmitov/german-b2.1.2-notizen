@@ -1,0 +1,39 @@
+- **natural rate of unemployment** #definition
+	- average rate of *actual unemployment* around which the economy operates
+- *L* is the number of workers in the labor force
+- *E* is the number of employed workers
+- *U* is the number of unemployed
+- *U/L* is the unemployment rate
+- **job separation rate, s** #definition
+	- fraction of employed who lose their job
+- **rate of job finding, f** #definition
+	- fraction of unemployed workers who find jobs
+- # Assumptions
+	- L is exogenously fixed
+	- s and f are exogenous
+- **steady-state** #definition #formula
+	- when unemployment rate is constant
+	- s \times E = f \times U
+	- $\frac{U}{L}=\frac{s}{s+f}$
+- A policy will reduce the natural rate of unemployment only if it ==lowers s== or ==increases f==.
+- # Why Does Unemployment Exist
+	- **frictional unemployment** #definition
+	  id:: 65e57a2b-53d0-4614-9fb7-a769d30b8f09
+		- caused by the time it takes workers to search for a job
+		- occurs even when wages are flexible
+	- **sectoral shifts** #definition
+		- changes in the composition of demand among industries or regions
+- #+BEGIN_NOTE
+  Benefits of unemployment insurance are that they increase the match quality between the job-seeker and the job.
+  #+END_NOTE
+- {{renderer excalidraw, excalidraw-2024-03-04-09-01-04}}
+- **structural unemployment** #definition
+	- caused by mismatch between the requirements of employers and job-seekers
+- Reasons for wage rigidity
+	- Minimum wage laws (exceedingly high)
+	- Labor unions
+		- acts as a monopolists for labor supply
+		- *insiders* are the union workers who are employed and vie for higher wages
+		- *outsiders* are the unemployed persons who want equilibrium wages so that there are enough jobs
+	- Efficiency wages
+		- e.g. higher wages attracts higher-skilled workers

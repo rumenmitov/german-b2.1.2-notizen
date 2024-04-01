@@ -1,0 +1,45 @@
+- ![temporale_nebensätze.pdf](../assets/B2_AB_62-66_1709634038487_0.pdf)
+	- Aufgabe 1
+		- Nachdem ich gefrühstückt habe, dusche ich. ✅
+		- Ehe ich schlafen gehe, putze ich ~~meine~~ *mir die* Zähne. ⚠️
+		- Während ich bügele, höre ich Radio. ✅
+		- Wenn ich mit den U-Bahn fahren, ich lese immer der Zeitung. ✅
+		- ~~Solange~~ *Bis* der Zug ankommt, lese ich der Zeitung. ❌
+		- Sowie ich im Büro ankomme, checke ich die Emails. ✅
+		- Seit ich studiert habe, habe ich einen guten Job. ✅
+	- Aufgabe 2
+		- Sie haben zusammen Kaffee getrunken, wenn er sontags seine Mutter besucht. ✅
+		- Als er gestern seine Mutter besuchte, war es kein Kaffee mehr da. ✅
+		- Als die Mutter zum Supermarkt gehen wollt, gab er ihr Geld. ✅
+		- Als er fünf Jahre alt war, hat seine Mutter ihm Geld gegeben. ✅
+		- ~~Als er ging als Kind einkaufen~~, durfte er damals immer das Restgeld behalten. ❌ *Wenn er als Kind einkaufen ging, ...*
+	- Aufgabe 3
+		- Wenn ✅
+		- Als ✅
+		- als ✅
+		- Als ✅
+		- Als ✅
+		- als ✅
+		- wenn ✅
+		- als ✅
+	- Aufgabe 4
+		- fertig gewesen bin ✅
+		- die Lebensmittel eingekauft habe ✅
+		- ~~gekommt~~ *gekommen* ist ❌
+		- sind wir ins Kino ~~gehen~~ *gegangen* ❌
+		- Wir sind spät zu Hause gewesen ✅
+		- Wir sind schnell ins Bett gegangen ✅
+		- ~~Wir konnten nicht einschlafen~~ ❌ *Wir können nicht einschlafen*
+	- Aufgabe 5
+		- ~~Sooft~~ ❌ *Nachdem*
+		- Ehe ✅
+		- Während ✅
+		- ~~Nachdem~~ ❌ *Sobald*
+		- ~~bevor~~ ❌ *bis*
+		- Seit ✅
+		- ~~bis~~ ❌ *bevor*
+		- Als ✅
+		- solange ✅
+		- ~~sobald~~ ❌ *sooft*
+	-
+-

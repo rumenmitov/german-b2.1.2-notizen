@@ -1,0 +1,30 @@
+# Solow Model
+	- ## Assumptions
+		- K is no longer fixed
+			- investment causes growth
+			- depreciation causes shrinkage
+		- L is no longer fixed
+			- population growth
+		- *Constant returns to scale*
+		- Saving rate, s, is fixed
+	- **output per worker** #formula
+		- y = Y/L
+	- **capital per worker** #formula
+		- k = K/L
+	- Let z = 1/L
+	- Y/L = F(K/L, 1)
+	- y = F(k, 1) = f(k)
+	- {{renderer excalidraw, excalidraw-2024-03-04-09-53-33}}
+	- Y = C + I
+		- G = 0
+	- y = c + i
+	- c = (1 -s)y
+	- saving
+	- investment
+	- graph x2
+	- depreciation
+	- capital accumulation
+	- \Delta k = i - \delta k
+	- \Delta k = sf(k) - \delta k
+	- {{renderer excalidraw, excalidraw-2024-03-04-10-07-24}}
+	-
